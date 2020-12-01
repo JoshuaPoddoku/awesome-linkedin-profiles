@@ -27,7 +27,7 @@ Name | LinkedIn | Content Highlights | Role-Company
 Gary Vee | https://www.linkedin.com/in/garyvaynerchuk/ | Motivation, Sound Mindset and Strategy | Entrepreneur and Investor
 Anubha Maneshwar | https://www.linkedin.com/in/anubhamane/ | Community Enthusiast, Opensource, Strategy | Founder @Girscript, Forbes 30 Under 30
 Vaibhav Sisinty | https://www.linkedin.com/in/vaibhavsisinty | Growth Hacker, Startegist, LinkedIn Specialist | Entrepreneur, Ex-Uber, Klook
-MN Hemant| https://www.linkedin.com/in/mnhemantt/ | Motavtion, Marketing Strategy | Entrepreneur
+MN Hemant| https://www.linkedin.com/in/mnhemantt/ | Motivation, Marketing Strategy | Entrepreneur
 
 
 
