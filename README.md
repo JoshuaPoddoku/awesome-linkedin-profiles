@@ -22,6 +22,7 @@ Marko Denic | https://www.linkedin.com/in/marko-denic-full-stack-developer/ | Mo
 Avi Aryan | https://www.linkedin.com/in/aviaryan/ | Remote work Motivation, Freelancing Strategy | Senior Software Engineer @Toptal
 Neha Sharma | https://www.linkedin.com/in/nehha/ | Resources JS and Frontend, Interview Strategy | SDM, Founder @JSLovers
 Catalin Pit | https://www.linkedin.com/in/catalinpit/ | Interview Tips and Strategy | Software Enginner @TypingDNA
+Eddie Jaoude | https://www.linkedin.com/in/eddiejaoude/ | Open Source, Motiavtion | Github Star 2020, Dev Rel, Full-Stack
 
 
 ## Entrepreneurs
