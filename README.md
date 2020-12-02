@@ -24,7 +24,8 @@ Neha Sharma | https://www.linkedin.com/in/nehha/ | Resources JS and Frontend, In
 Catalin Pit | https://www.linkedin.com/in/catalinpit/ | Interview Tips and Strategy | Software Enginner @TypingDNA
 Akshay Saini | https://www.linkedin.com/in/akshaymarch7/ | Javascript, Motivation, Interview tips & strategies| Engineer @ Uber 
 Eddie Jaoude | https://www.linkedin.com/in/eddiejaoude/ | Open Source, Motivation | Github Star 2020, Dev Rel, Full-Stack
-
+Love Babbar  | https://www.linkedin.com/in/love-babbar-38ab2887/ | Learning, Motivation, Strategy  | SDE at Amazon, YouTuber
+Niharika Arora | https://www.linkedin.com/in/thedroidlady/  | Learning, Open Source for Android | Sr. Software Engineer @ 1Mg, Google Developer Expert for Android
 
 ## Entrepreneurs
 Name | LinkedIn | Content Highlights | Role-Company
