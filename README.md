@@ -23,7 +23,7 @@ Avi Aryan | https://www.linkedin.com/in/aviaryan/ | Remote work Motivation, Free
 Neha Sharma | https://www.linkedin.com/in/nehha/ | Resources JS and Frontend, Interview Strategy | SDM, Founder @JSLovers
 Catalin Pit | https://www.linkedin.com/in/catalinpit/ | Interview Tips and Strategy | Software Enginner @TypingDNA
 Akshay Saini | https://www.linkedin.com/in/akshaymarch7/ | Javascript, Motivation, Interview tips & strategies| Engineer @ Uber 
-Eddie Jaoude | https://www.linkedin.com/in/eddiejaoude/ | Open Source, Motiavtion | Github Star 2020, Dev Rel, Full-Stack
+Eddie Jaoude | https://www.linkedin.com/in/eddiejaoude/ | Open Source, Motivation | Github Star 2020, Dev Rel, Full-Stack
 
 
 ## Entrepreneurs
