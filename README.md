@@ -1,4 +1,4 @@
-# awesome-linkedin-profiles
+# Awesome Linkedin Profiles
 *Top LinkedIn Profiles especially for developers including some LinkedIn specialists, Entrepreneurs and Strategists for the best content*
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -8,6 +8,9 @@
 
 - [Developers](#developers)
 - [Entrepreneurs](#entrepreneurs)
+- [Contributing Guidelines](#contributing-guidelines)
+- [Contributors](#contributors)
+- [Author](#author)
 
 ## Developers
 
@@ -18,7 +21,7 @@ Danny Thompson | https://www.linkedin.com/in/dannythompson901/ | Motiavtion, Beg
 Marco Denic | https://www.linkedin.com/in/marko-denic-full-stack-developer/ | Motivation, Resources and Strategy | Senior Full Stack Dev
 Avi Aryan | https://www.linkedin.com/in/aviaryan/ | Remote work Motivation, Freelancing Strategy | Senior Software Engineer @Toptal
 Neha Sharma | https://www.linkedin.com/in/nehha/ | Resources JS and Frontend, Interview Strategy | SDM, Founder @JSLovers
-
+Catalin Pit | https://www.linkedin.com/in/catalinpit/ | Interview Tips and Strategy | Software Enginner @TypingDNA
 
 
 ## Entrepreneurs
@@ -29,8 +32,22 @@ Anubha Maneshwar | https://www.linkedin.com/in/anubhamane/ | Community Enthusias
 Vaibhav Sisinty | https://www.linkedin.com/in/vaibhavsisinty | Growth Hacker, Startegist, LinkedIn Specialist | Entrepreneur, Ex-Uber, Klook
 MN Hemant| https://www.linkedin.com/in/mnhemantt/ | Motivation, Marketing Strategy | Entrepreneur
 
+## Contributing Guidelines
+ [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+- Add Profiles only when you feel their posts/content is really helpful for the community
+- Avoid adding your own profiles 
+- Choose the best profiles in your own connection 
+- You can add your profile in the [Contributors](#contributors) List
+- You can either do a PR or add an issue 
+- Add an issue if you want to include a new category
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+## Contributors
+
+## Author
+- Website: joshuapoddoku.github.io
+- Twitter: [@JoshuaPoddoku](https://twitter.com/JoshuaPoddoku)
+- Github: [@JoshuaPoddoku](https://github.com/JoshuaPoddoku)
+- LinkedIn: [JoshuaPoddoku](https://www.linkedin.com/in/joshua-poddoku/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/JoshuaPoddoku)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/201751033%40iiitvadodara.ac.in)
