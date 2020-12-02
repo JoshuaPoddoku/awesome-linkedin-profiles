@@ -18,7 +18,7 @@ Name | LinkedIn | Content Highlights | Role/Company
 --- | --- | --- | ---
 Tanay Pratap | https://www.linkedin.com/in/tanaypratap/ | Motivation, Learning, Strategy, Developer Bootcamp | Engineer @Microsoft
 Danny Thompson | https://www.linkedin.com/in/dannythompson901/ | Motiavtion, Beginner Strategies | Community Leader, Software Engineer
-Marco Denic | https://www.linkedin.com/in/marko-denic-full-stack-developer/ | Motivation, Resources and Strategy | Senior Full Stack Dev
+Marko Denic | https://www.linkedin.com/in/marko-denic-full-stack-developer/ | Motivation, Resources and Strategy | Senior Full Stack Dev
 Avi Aryan | https://www.linkedin.com/in/aviaryan/ | Remote work Motivation, Freelancing Strategy | Senior Software Engineer @Toptal
 Neha Sharma | https://www.linkedin.com/in/nehha/ | Resources JS and Frontend, Interview Strategy | SDM, Founder @JSLovers
 Catalin Pit | https://www.linkedin.com/in/catalinpit/ | Interview Tips and Strategy | Software Enginner @TypingDNA
