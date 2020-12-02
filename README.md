@@ -35,9 +35,9 @@ MN Hemant| https://www.linkedin.com/in/mnhemantt/ | Motivation, Marketing Strate
 ## Contributing Guidelines
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-- Add Profiles only when you feel their posts/content is really helpful for the community
+- Add Profiles only if you feel their posts/content is really helpful for the community
 - Avoid adding your own profiles 
-- Choose the best profiles in your own connection 
+- Choose the best profiles from your own network
 - You can add your profile in the [Contributors](#contributors) List
 - You can either do a PR or add an issue 
 - Add an issue if you want to include a new category
