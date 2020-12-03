@@ -26,6 +26,7 @@ Akshay Saini | https://www.linkedin.com/in/akshaymarch7/ | Javascript, Motivatio
 Eddie Jaoude | https://www.linkedin.com/in/eddiejaoude/ | Open Source, Motivation | Github Star 2020, Dev Rel, Full-Stack
 Love Babbar  | https://www.linkedin.com/in/love-babbar-38ab2887/ | Learning, Motivation, Strategy  | SDE at Amazon, YouTuber
 Niharika Arora | https://www.linkedin.com/in/thedroidlady/  | Learning, Open Source for Android | Sr. Software Engineer @ 1Mg, Google Developer Expert for Android
+Kevin Thomas | https://www.linkedin.com/in/mytechnotalent/ | Micro-Courses, Developer Tutorials | Senior Software Engineer in Test at BluVector, A Comcast Company
 
 ## Entrepreneurs
 Name | LinkedIn | Content Highlights | Role-Company
@@ -48,6 +49,7 @@ MN Hemant| https://www.linkedin.com/in/mnhemantt/ | Motivation, Marketing Strate
 ## Contributors
 - [Simran Koul](https://github.com/simrankoul)
 - [Rahul Kumar](https://github.com/rahulrajht)
+- [Avinal Kumar](https://github.com/avinal)
 
 ## Author
 - Website: joshuapoddoku.github.io
