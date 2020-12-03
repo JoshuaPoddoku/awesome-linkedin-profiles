@@ -41,8 +41,8 @@ MN Hemant| https://www.linkedin.com/in/mnhemantt/ | Motivation, Marketing Strate
 
 - Coming soon .. 🚀
 
-## 🤝 Contributing Guidelines
- [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+## Contributing Guidelines
+ 🤝 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 - Add Profiles only if you feel their posts/content is really helpful for the community
 - Avoid adding your own profiles 
