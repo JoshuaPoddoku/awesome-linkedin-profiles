@@ -9,7 +9,7 @@
 - [Developers](#developers)
 - [Entrepreneurs](#entrepreneurs)
 - [Designers](#designers)
-- [🤝 Contributing Guidelines](#contributing-guidelines)
+- 🤝[Contributing Guidelines](#contributing-guidelines)
 - [Contributors](#contributors)
 - [Author](#author)
 
