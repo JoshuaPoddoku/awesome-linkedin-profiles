@@ -1,14 +1,15 @@
 # Awesome Linkedin Profiles
-*Top LinkedIn Profiles especially for developers including some LinkedIn specialists, Entrepreneurs and Strategists for the best content*
+*Top LinkedIn Profiles especially for developers including some Designers, LinkedIn specialists, Entrepreneurs and Strategists for the best content*
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+[![MIT License](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 <img src="https://komarev.com/ghpvc/?username=joshuapoddoku&label=Profile%20views&color=0e75b6&style=flat" alt="joshuapoddoku" />
 
 
 - [Developers](#developers)
 - [Entrepreneurs](#entrepreneurs)
-- [Contributing Guidelines](#contributing-guidelines)
+- [Designers](#designers)
+- [🤝 Contributing Guidelines](#contributing-guidelines)
 - [Contributors](#contributors)
 - [Author](#author)
 
@@ -36,7 +37,11 @@ Anubha Maneshwar | https://www.linkedin.com/in/anubhamane/ | Community Enthusias
 Vaibhav Sisinty | https://www.linkedin.com/in/vaibhavsisinty | Growth Hacker, Startegist, LinkedIn Specialist | Entrepreneur, Ex-Uber, Klook
 MN Hemant| https://www.linkedin.com/in/mnhemantt/ | Motivation, Marketing Strategy | Entrepreneur
 
-## Contributing Guidelines
+## Designers
+
+- Coming soon .. 🚀
+
+## 🤝 Contributing Guidelines
  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 - Add Profiles only if you feel their posts/content is really helpful for the community
