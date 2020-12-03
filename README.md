@@ -17,7 +17,7 @@
 
 Name | LinkedIn | Content Highlights | Role/Company
 --- | --- | --- | ---
-Tanay Pratap | https://www.linkedin.com/in/tanaypratap/ | Motivation, Learning, Strategy, Developer Bootcamp | Engineer @Microsoft
+Tanay Pratap | https://www.linkedin.com/in/tanaypratap/ | Motivation, Learning, Strategy, New Generation Developer Bootcamp | Engineer @Microsoft
 Danny Thompson | https://www.linkedin.com/in/dannythompson901/ | Motivation, Beginner Strategies, Must for every Dev | Community Leader, Software Engineer
 Marko Denic | https://www.linkedin.com/in/marko-denic-full-stack-developer/ | Motivation, Resources and Strategy | Senior Full Stack Dev
 Avi Aryan | https://www.linkedin.com/in/aviaryan/ | Remote work Motivation, Freelancing Strategy | Senior Software Engineer @Toptal
@@ -33,8 +33,8 @@ Kevin Thomas | https://www.linkedin.com/in/mytechnotalent/ | Micro-Courses, Deve
 Name | LinkedIn | Content Highlights | Role-Company
 --- | --- | --- | ---
 Gary Vee | https://www.linkedin.com/in/garyvaynerchuk/ | Motivation, Sound Mindset and Strategy | Entrepreneur and Investor
-Anubha Maneshwar | https://www.linkedin.com/in/anubhamane/ | Community Enthusiast, Opensource, Strategy | Founder @Girscript, Forbes 30 Under 30
-Vaibhav Sisinty | https://www.linkedin.com/in/vaibhavsisinty | Growth Hacker, Startegist, LinkedIn Specialist | Entrepreneur, Ex-Uber, Klook
+Anubha Maneshwar | https://www.linkedin.com/in/anubhamane/ | Community Enthusiasm, Girlscript Summer of Code, Opensource, Strategy | Founder @Girscript, Forbes 30 Under 30
+Vaibhav Sisinty | https://www.linkedin.com/in/vaibhavsisinty | Growth Hacking, Thinking out-of-the-box and LinkedIn Strategy | Entrepreneur, Ex-Uber, Klook
 MN Hemant| https://www.linkedin.com/in/mnhemantt/ | Motivation, Marketing Strategy | Entrepreneur
 
 ## Designers
