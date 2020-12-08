@@ -1,4 +1,4 @@
-# Awesome Linkedin Profiles
+# Awesome LinkedIn Profiles
 *Top LinkedIn Profiles especially for developers including some Designers, LinkedIn specialists, Entrepreneurs and Strategists for the best content*
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -28,6 +28,8 @@ Eddie Jaoude | https://www.linkedin.com/in/eddiejaoude/ | Open Source, Motivatio
 Love Babbar  | https://www.linkedin.com/in/love-babbar-38ab2887/ | Learning, Motivation, Strategy  | SDE at Amazon, YouTuber
 Niharika Arora | https://www.linkedin.com/in/thedroidlady/  | Learning, Open Source for Android | Sr. Software Engineer @ 1Mg, Google Developer Expert for Android
 Kevin Thomas | https://www.linkedin.com/in/mytechnotalent/ | Micro-Courses, Developer Tutorials | Senior Software Engineer in Test at BluVector, A Comcast Company
+Minko Gechev | https://www.linkedin.com/in/mgechev/ | Angular, JavaScript, TypeScript, Browser Tooling
+Nader Dabit | https://www.linkedin.com/in/naderdabit/ | AWS, GraphQL, NextJS, React
 
 ## Entrepreneurs
 Name | LinkedIn | Content Highlights | Role-Company
