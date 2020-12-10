@@ -57,6 +57,7 @@ MN Hemant| https://www.linkedin.com/in/mnhemantt/ | Motivation, Marketing Strate
 - [Simran Koul](https://github.com/simrankoul)
 - [Rahul Kumar](https://github.com/rahulrajht)
 - [Avinal Kumar](https://github.com/avinal)
+- [Umair Hafeez](https://github.com/umairhm)
 
 ## Author
 - Website: joshuapoddoku.github.io
