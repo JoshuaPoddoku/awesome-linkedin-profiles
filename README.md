@@ -30,7 +30,7 @@ Niharika Arora | https://www.linkedin.com/in/thedroidlady/  | Learning, Open Sou
 Kevin Thomas | https://www.linkedin.com/in/mytechnotalent/ | Micro-Courses, Developer Tutorials | Senior Software Engineer in Test at BluVector, A Comcast Company
 Minko Gechev | https://www.linkedin.com/in/mgechev/ | Angular, JavaScript, TypeScript, Browser Tooling | Senior Developer Relations Engineer @ Google
 Nader Dabit | https://www.linkedin.com/in/naderdabit/ | AWS, GraphQL, NextJS, React | Senior Developer Advocate @ Amazon Web Services
-
+Pawan Kumar | https://www.linkedin.com/in/imthepk/ | Motivation, Learning | Youtuber,GDE.
 
 ## Entrepreneurs
 Name | LinkedIn | Content Highlights | Role-Company
