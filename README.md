@@ -31,6 +31,7 @@ Kevin Thomas | https://www.linkedin.com/in/mytechnotalent/ | Micro-Courses, Deve
 Minko Gechev | https://www.linkedin.com/in/mgechev/ | Angular, JavaScript, TypeScript, Browser Tooling | Senior Developer Relations Engineer @ Google
 Nader Dabit | https://www.linkedin.com/in/naderdabit/ | AWS, GraphQL, NextJS, React | Senior Developer Advocate @ Amazon Web Services
 Pawan Kumar | https://www.linkedin.com/in/imthepk/ | Motivation, Learning | Youtuber,GDE.
+Madhav Bahl| https://www.linkedin.com/in/madhavbahl/ | Productivity, Personal Growth, Resources | Software Engineer @Microsoft
 
 ## Entrepreneurs
 Name | LinkedIn | Content Highlights | Role-Company
