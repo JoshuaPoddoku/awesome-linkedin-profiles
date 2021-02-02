@@ -9,7 +9,7 @@
 - [Developers](#developers)
 - [Entrepreneurs](#entrepreneurs)
 - [Designers](#designers)
-- 🤝[Contributing Guidelines](#contributing-guidelines)
+- [Contributing Guidelines](#contributing-guidelines)
 - [Contributors](#contributors)
 - [Author](#author)
 
@@ -32,7 +32,7 @@ Minko Gechev | https://www.linkedin.com/in/mgechev/ | Angular, JavaScript, TypeS
 Nader Dabit | https://www.linkedin.com/in/naderdabit/ | AWS, GraphQL, NextJS, React | Senior Developer Advocate @ Amazon Web Services
 Pawan Kumar | https://www.linkedin.com/in/imthepk/ | Motivation, Learning | Youtuber,GDE.
 Madhav Bahl| https://www.linkedin.com/in/madhavbahl/ | Productivity, Personal Growth, Resources | Software Engineer @Microsoft
-Kunal Kushwaha | https://www.linkedin.com/in/kunal-kushwaha/ | Opensource, Best Guide, Youtube Channel | GSoC @Red Hat, MLH Coach, Gold MLSA
+Kunal Kushwaha | https://www.linkedin.com/in/kunal-kushwaha/ | Opensource, Best Guide, Youtube Channel | GSoC @RedHat, @MLH Coach, Gold MLSA
 
 ## Entrepreneurs
 Name | LinkedIn | Content Highlights | Role-Company
